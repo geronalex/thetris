@@ -1,0 +1,82 @@
+[
+    {
+        "superhero":"Spider Man", 
+        "publisher":"Marvel Comics", 
+        "alter_ego":"Peter Parker",
+        "first_appearance":"Amazing Fantasy #15",
+        "characters":"Peter Parker",
+        "img":"https://pic.clubic.com/v1/images/1684361/raw?width=436&height=327&fit=max&hash=47a740190fdb62f63119da7ce6a9125225c14eb1"
+    },
+    {
+        "superhero":"Captain America", 
+        "publisher":"Marvel Comics", 
+        "alter_ego":"Steve Rogers",
+        "first_appearance":"Captain America Comics #1",
+        "characters":"Steve Rogers",
+        "img":"https://cdn.britannica.com/s:500x350/30/182830-004-61C7794A.jpg"
+    },
+    {
+        "superhero":"Iron Man", 
+        "publisher":"Marvel Comics", 
+        "alter_ego":"Tony Stark",
+        "first_appearance":"Tales of Suspense #39",
+        "characters":"Tony Stark",
+        "img":"https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Iron_Man_bleeding_edge.jpg/250px-Iron_Man_bleeding_edge.jpg"
+    },
+    {
+        "superhero":"Thor", 
+        "publisher":"Marvel Comics", 
+        "alter_ego":"Thor Odinson",
+        "first_appearance":"Journey into Myster #83",
+        "characters":"Thor Odinson",
+        "img":"https://images-na.ssl-images-amazon.com/images/M/MV5BNjI4Mzk4NjQwOF5BMl5BanBnXkFtZTgwNjMzOTcwNDI@._CR381,31,585,585_UX402_UY402._SY201_SX201_AL_.jpg"
+    },
+    {
+        "superhero":"Hulk", 
+        "publisher":"Marvel Comics", 
+        "alter_ego":"Bruce Banner",
+        "first_appearance":"The Incredible Hulk #1",
+        "characters":"Bruce Banner",
+        "img":"https://tel.img.pmdstatic.net/fit/http.3A.2F.2Fwww.2Eprogramme.2Etv.2Fupload.2Fepgs.2F2013.2F01.2Fhulk_2089932_1.2Ejpg/355x272/quality/80/hulk.jpg"
+    },
+    {
+        "superhero":"Wolverine", 
+        "publisher":"Marvel Comics", 
+        "alter_ego":"James Howlett",
+        "first_appearance":"The Incredible Hulk #180",
+        "characters":"James Howlett",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wolverine_%287343567212%29_%28retouched%29.jpg/220px-Wolverine_%287343567212%29_%28retouched%29.jpg"
+    },
+    {
+        "superhero":"Daredevil", 
+        "publisher":"Marvel Comics", 
+        "alter_ego":"Matthew Michael Murdock",
+        "first_appearance":"Daredevil #1",
+        "characters":"Matthew Michael Murdock",
+        "img":"https://mykombini-ab5a.kxcdn.com/78247-large/one-12-collective-marvel-daredevil-daredevil-matt-murdock-112-mezco.jpg"
+    },
+    {
+        "superhero":"Hawkeye", 
+        "publisher":"Marvel Comics", 
+        "alter_ego":"Clinton Francis Barton",
+        "first_appearance":"Tales of Suspense #57",
+        "characters":"Clinton Francis Barton",
+        "img":"https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/0/08/HawkeyeRonin-EndgameProfile.jpg/revision/latest/scale-to-width-down/310?cb=20190423175147"
+    },
+    {
+        "superhero":"Cyclops", 
+        "publisher":"Marvel Comics", 
+        "alter_ego":"Scott Summers",
+        "first_appearance":"X-Men #1",
+        "characters":"Scott Summers",
+        "img":"https://i.pinimg.com/736x/d9/15/45/d91545fc503278f992c42f4c125b7d59--marvel-heroes-marvel-comics.jpg"
+    },
+    {
+        "superhero":"Silver Surfer", 
+        "publisher":"Marvel Comics", 
+        "alter_ego":"Norrin Radd",
+        "first_appearance":"The Fantastic Four #48",
+        "characters":"Norrin Radd",
+        "img":"https://upload.wikimedia.org/wikipedia/en/9/92/Silver_Surfer.jpg"
+    }
+  ]

@@ -1,0 +1,82 @@
+[
+    {
+        "superhero":"Batman", 
+        "publisher":"DC Comics", 
+        "alter_ego":"Bruce Wayne",
+        "first_appearance":"Detective Comics #27",
+        "characters":"Bruce Wayne",
+        "img":"https://cdn.images.dailystar.co.uk/dynamic/184/photos/124000/620x/New-Batman-game-in-the-works-at-WB-Montreal-DC-Game-confirmed-by-Warner-Bros-employee-793658.jpg?r=5d3d8fc84fd21"
+    },
+    {
+        "superhero":"Superman", 
+        "publisher":"DC Comics", 
+        "alter_ego":"Kal-El",
+        "first_appearance":"Action Comics #1",
+        "characters":"Kal-El",
+        "img":"https://www.mdcu-comics.fr/uploads/encyclo/images/2015/09/21/encyclo_illustre_1277854208.jpg"
+    },
+    {
+        "superhero":"Flash", 
+        "publisher":"DC Comics", 
+        "alter_ego":"Jay Garrick",
+        "first_appearance":"Flash Comics #1",
+        "characters":"Jay Garrick, Barry Allen, Wally West, Bart Allen",
+        "img":"http://images.critictoo.com/wp-content/uploads/2018/07/The-Flash-Saison-5-Comic-Con.jpg"
+    },
+    {
+        "superhero":"Green Lantern", 
+        "publisher":"DC Comics", 
+        "alter_ego":"Alan Scott",
+        "first_appearance":"All-American Comics #16",
+        "characters":"Alan Scott, Hal Jordan, Guy Gardner, John Stewart, Kyle Raynor, Jade, Sinestro, Simon Baz",
+        "img":"https://cdn.shopify.com/s/files/1/1045/2402/products/TGL_Cv1_FRANKIES.minimal_R1_crop_1024x1024.jpg?v=1552488113"
+    },
+    {
+        "superhero":"Green Arrow", 
+        "publisher":"DC Comics", 
+        "alter_ego":"Oliver Queen",
+        "first_appearance":"More Fun Comics #73",
+        "characters":"Oliver Queen",
+        "img":"https://i.pinimg.com/originals/ce/34/af/ce34af8cf255d545bc2bf62999a3f951.jpg"
+    },
+    {
+        "superhero":"Wonder Woman", 
+        "publisher":"DC Comics", 
+        "alter_ego":"Princess Diana",
+        "first_appearance":"All Star Comics #8",
+        "characters":"Princess Diana",
+        "img":"https://is1-ssl.mzstatic.com/image/thumb/Video128/v4/b2/83/e5/b283e562-b7c6-ae86-1871-014952535459/pr_source.lsr/268x0w.png"
+    },
+    {
+        "superhero":"Martian Manhunter", 
+        "publisher":"DC Comics", 
+        "alter_ego":"J'onn J'onzz",
+        "first_appearance":"Detective Comics #225",
+        "characters":"Martian Manhunter",
+        "img":"https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Martian_Manhunter_Alex_Ross.png/250px-Martian_Manhunter_Alex_Ross.png"
+    },
+    {
+        "superhero":"Robin/Nightwing", 
+        "publisher":"DC Comics", 
+        "alter_ego":"Dick Grayson",
+        "first_appearance":"Detective Comics #38",
+        "characters":"Dick Grayson",
+        "img":"https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Batman_and_Robin_Eternal_1_Variant.png/250px-Batman_and_Robin_Eternal_1_Variant.png"
+    },
+    {
+        "superhero":"Blue Beetle", 
+        "publisher":"DC Comics", 
+        "alter_ego":"Dan Garret",
+        "first_appearance":"Mystery Men Comics #1",
+        "characters":"Dan Garret, Ted Kord, Jaime Reyes",
+        "img":"https://comicvine1.cbsistatic.com/uploads/scale_small/10/100647/5362689-bluereb-1-8-4efae.jpg"
+    },
+    {
+        "superhero":"Black Canary", 
+        "publisher":"DC Comics", 
+        "alter_ego":"Dinah Drake",
+        "first_appearance":"Flash Comics #86",
+        "characters":"Dinah Drake, Dinah Lance",
+        "img":"https://comicvine1.cbsistatic.com/uploads/scale_small/11129/111294992/6037873-4f913617cd7856c4ef4af79c8ac6004d--black-canary-green-arrow-1.jpg"
+    }
+]
