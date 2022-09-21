@@ -22,7 +22,7 @@
     "vue": "^2.5.2",
     "vue-i18n": "^8.12.0",
     "vue-router": "^3.0.7",
-    "vuetify": "^2.0.2"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
